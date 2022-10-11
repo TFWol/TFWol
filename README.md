@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Wishlist
+# Wishlist (to keep an eye out on)
 ## [mpc-hc](https://github.com/clsid2/mpc-hc)
 
 What | Why | Status | Workaround
